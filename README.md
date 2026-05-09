@@ -6,7 +6,7 @@ Heya its sphere here! this project was made for my final project (OOP class) i h
 # Art
 BG, Shop, Button, animation By me
 
-Item, Zombies, sprite in game by https://pixelrogueknight.itch.io/zombie-apocalypse-assetpack <- Go buy their work, they got a GOAT pixel sprite i've ever seen!
+Item, Zombies, sprite in game by https://pixelrogueknight.itch.io/zombie-apocalypse-assetpack <- Go buy their work, they got a GOATED pixel sprite i've ever seen!
 
 
 # Preview :
